@@ -1,4 +1,4 @@
-<?
+<?php
 # Include libraries
 include("LIB_parse.php");
 include("LIB_http.php");

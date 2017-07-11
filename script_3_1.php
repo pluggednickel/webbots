@@ -1,4 +1,4 @@
-<?
+<?php
 $target = "http://www.WebbotsSpidersScreenScrapers.com/hello_world.html";
 $file_handle = fopen($target, "r");
 
