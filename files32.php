@@ -1,5 +1,5 @@
 <?php
-//   Download the target file Test Added 
+//   wnload the target file Test Added 
 $target = "http://www.WebbotsSpidersScreenScrapers.com/hello_world.html";
 $downloaded_page_array = file($target);
 // Echo contents of file
